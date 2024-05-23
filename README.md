@@ -2,10 +2,10 @@
 
 <b>Description:</b><br/>
 
-Talousvirta is an invoice service which is an electronic service that helps the registered customers in 
+Talousvirta is an invoice service that helps the registered customers in 
 customer creation, product creation, raise invoices and having payment control. It provides the 
 funding service as well if the customer needs one. <br/>
-Resonia is a debt collection service which is an electronic service, where you can follow your 
+Resonia is a debt collection service where you can follow your 
 receivables situation and create new debt collection assignments easily from the application itself.
 User interfaces of both the applications are developed using React which makes calls to the web API 
 services which in turn communicate with the backend for the processing.<br/>
